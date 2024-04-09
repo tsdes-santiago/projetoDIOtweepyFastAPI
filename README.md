@@ -20,7 +20,7 @@ Containerizar a aplicação com Docker e modularizar a aplicação.
 - MongoDB Atlas - banco de dados na nuvem
 - PyMongo - conexão com banco de dados
 - FastAPI - desenvolver a aplicação
-- nkrog - executar o app online
+- ngrok - executar o app online
 
 
 ## :beetle: Dificuldades com o desafio
